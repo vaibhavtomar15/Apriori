@@ -1,0 +1,33 @@
+Strongly Associated items
+[citrus fruit]	 ,	0.08276563294356888
+[tropical fruit]	 ,	0.10493136756481952
+[whole milk]	 ,	0.25551601423487547
+[pip fruit]	 ,	0.07564819522114896
+[other vegetables]	 ,	0.1934926283680732
+[rolls/buns]	 ,	0.18393492628368074
+[butter]	 ,	0.05541433655312659
+[fruit/vegetable juice]	 ,	0.0722928317234367
+[bottled water]	 ,	0.11052364006100661
+[yogurt]	 ,	0.13940010167768174
+[sausage]	 ,	0.09395017793594305
+[root vegetables]	 ,	0.10899847483477376
+[pastry]	 ,	0.08896797153024912
+[frozen meals]	 ,	0.02836807320793086
+[soda]	 ,	0.17437722419928825
+[frozen vegetables]	 ,	0.04809354346720895
+--
+[whole milk, other vegetables]	 ,	0.07483477376715811
+[tropical fruit, whole milk]	 ,	0.04229791560752415
+[whole milk, yogurt]	 ,	0.05592272496187087
+[sausage, soda]	 ,	0.024300965937976614
+[pastry, soda]	 ,	0.021047280122013217
+[whole milk, rolls/buns]	 ,	0.05663446873411286
+[other vegetables, rolls/buns]	 ,	0.042602948652770714
+[whole milk, root vegetables]	 ,	0.048906964921199794
+---
+[whole milk, other vegetables, yogurt]	 ,	0.02226741230299949
+[whole milk, other vegetables, root vegetables]	 ,	0.023182511438739197
+
+
+
+
